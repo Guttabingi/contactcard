@@ -1,0 +1,52 @@
+/*body{
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-radius: 15pt;
+    border-color: pink;
+    margin: 120pt 350pt 120pt 350pt;
+}
+div{
+    text-align: center;
+}
+.div img {
+    float: left;}*/
+
+
+
+}  
+p{  
+    line-height: 5pt ;
+    font-style: italic ;
+} 
+.whole{
+  display: inline-block;
+  border-style: solid 5px;
+  border-color: pink;
+  box-shadow: 10px 10px 3px orange;
+  border-radius: 10px;
+  padding:0 25px 50px 25px;
+  margin: 120pt 350pt 200pt 350pt;
+  background-color: black;
+  color: white; 
+  height: 300px;
+  text-align: right;
+} 
+:hover.whole{
+box-shadow: orangered;
+}
+
+.whole img{
+    float: left; 
+    border-radius: 50%;
+    padding-left: 0px;
+    height: 250px;
+    width: 250px;
+    margin: 20 200px -10px -10px;
+}
+
+
+
+    
+
+
